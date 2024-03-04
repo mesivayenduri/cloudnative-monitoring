@@ -1,6 +1,7 @@
 # cloudnative-monitoring
 
 
+![Strategy and planning - Page 1](https://github.com/mesivayenduri/cloudnative-monitoring/assets/108209757/da74f31b-72e8-420c-9b47-c510ef473c4d)
 
 # Creating EKS Cluster
 
